@@ -37,9 +37,11 @@ def test(request):
     a = 1+ 1
     b = 2+2
     c = 3+3
+    d = 4+4
     print(c)
     print(a)
     print(b)
+    print(d)
     return JsonResponse({"code":200, "ipaddress":ipaddress})
 
 
