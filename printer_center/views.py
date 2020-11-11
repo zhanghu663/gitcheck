@@ -34,6 +34,8 @@ def test(request):
 
     ipaddress = request.META['REMOTE_ADDR']
     print(ipaddress)
+    a = 1+ 1
+    print(a)
     return JsonResponse({"code":200, "ipaddress":ipaddress})
 
 
