@@ -38,11 +38,13 @@ def test(request):
     c = 3+3
     d = 4+4
     e = 5+5
+    f = 6666
     print(c)
     print(a)
     print(b)
     print(d)
     print(e)
+    print(f)
     return JsonResponse({"code":200, "ipaddress":ipaddress})
 
 
