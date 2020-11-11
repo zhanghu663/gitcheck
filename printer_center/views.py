@@ -31,17 +31,18 @@ def test2_websocket(request):
 
 def test(request):
     # url http://ip:port/test/
-
     ipaddress = request.META['REMOTE_ADDR']
     print(ipaddress)
     a = 1+ 1
     b = 2+2
     c = 3+3
     d = 4+4
+    e = 5+5
     print(c)
     print(a)
     print(b)
     print(d)
+    print(e)
     return JsonResponse({"code":200, "ipaddress":ipaddress})
 
 
