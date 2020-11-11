@@ -1,0 +1,24 @@
+2020-09-28 11:45:04,662 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:578] Watching for file changes with StatReloader
+2020-09-28 11:47:51,115 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:203] C:\Users\cx2326\Desktop\NewPrinterBrain\NewPrinterBrain\settings.py changed, reloading.
+2020-09-28 11:47:53,380 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:578] Watching for file changes with StatReloader
+2020-09-28 11:48:14,168 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:578] Watching for file changes with StatReloader
+2020-09-28 11:49:25,291 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:578] Watching for file changes with StatReloader
+2020-09-28 11:50:11,094 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\log.py[line:228] Not Found: /printer/test/
+2020-09-28 11:50:11,094 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /printer/test/ HTTP/1.1" 404 2095
+2020-09-28 11:50:11,184 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\log.py[line:228] Not Found: /favicon.ico
+2020-09-28 11:50:11,184 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /favicon.ico HTTP/1.1" 404 2089
+2020-09-28 11:50:33,298 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\log.py[line:228] Not Found: /test/test/
+2020-09-28 11:50:33,298 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /test/test/ HTTP/1.1" 404 2143
+2020-09-28 11:50:58,256 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/test/ HTTP/1.1" 200 13
+2020-09-28 11:51:16,262 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/test/ HTTP/1.1" 200 13
+2020-09-28 11:51:19,350 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/test/ HTTP/1.1" 200 13
+2020-09-28 11:52:08,710 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/test/ HTTP/1.1" 200 13
+2020-09-28 11:52:13,867 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/test/ HTTP/1.1" 200 13
+2020-09-28 11:54:16,116 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/test/ HTTP/1.1" 200 13
+2020-09-28 11:54:24,859 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:578] Watching for file changes with StatReloader
+2020-09-28 11:54:26,208 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/test/ HTTP/1.1" 200 13
+2020-09-28 11:54:26,299 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/test/ HTTP/1.1" 200 13
+2020-09-28 11:54:26,388 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/test/ HTTP/1.1" 200 13
+2020-09-28 11:54:46,776 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:578] Watching for file changes with StatReloader
+2020-09-28 11:54:57,675 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/test/ HTTP/1.1" 200 13
+2020-09-28 16:35:36,079 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:578] Watching for file changes with StatReloader

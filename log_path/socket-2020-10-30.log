@@ -1,0 +1,6 @@
+2020-10-30 10:10:59,545 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:578] Watching for file changes with StatReloader
+2020-10-30 10:15:16,815 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/printer/ HTTP/1.1" 200 0
+2020-10-30 10:36:28,508 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/printer/ HTTP/1.1" 200 0
+2020-10-30 10:36:28,605 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] code 400, message Bad HTTP/0.9 request type ('\x81\x91E')
+2020-10-30 10:43:47,227 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:203] C:\Users\cx2326\Desktop\NewPrinterBrain\printer_center\views.py changed, reloading.
+2020-10-30 10:43:49,424 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:578] Watching for file changes with StatReloader

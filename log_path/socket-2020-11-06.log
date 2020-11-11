@@ -1,0 +1,3 @@
+2020-11-06 17:23:53,660 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:578] Watching for file changes with StatReloader
+2020-11-06 17:24:17,946 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:578] Watching for file changes with StatReloader
+2020-11-06 17:35:49,414 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/printer/ HTTP/1.1" 200 0

@@ -1,0 +1,52 @@
+2020-10-27 16:52:05,752 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:578] Watching for file changes with StatReloader
+2020-10-27 16:57:07,533 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\log.py[line:228] Not Found: /
+2020-10-27 16:57:07,533 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET / HTTP/1.1" 404 77
+2020-10-27 16:57:07,715 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\log.py[line:228] Not Found: /
+2020-10-27 16:57:07,716 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET / HTTP/1.1" 404 77
+2020-10-27 16:57:08,078 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\log.py[line:228] Not Found: /favicon.ico
+2020-10-27 16:57:08,079 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /favicon.ico HTTP/1.1" 404 77
+2020-10-27 16:57:08,135 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\log.py[line:228] Not Found: /favicon.ico
+2020-10-27 16:57:08,135 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /favicon.ico HTTP/1.1" 404 77
+2020-10-27 16:57:13,282 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\log.py[line:228] Not Found: /
+2020-10-27 16:57:13,282 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET / HTTP/1.1" 404 77
+2020-10-27 16:57:13,445 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\log.py[line:228] Not Found: /
+2020-10-27 16:57:13,445 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET / HTTP/1.1" 404 77
+2020-10-27 16:58:21,930 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/test/ HTTP/1.1" 200 13
+2020-10-27 16:58:22,113 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\log.py[line:228] Not Found: /favicon.ico
+2020-10-27 16:58:22,113 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /favicon.ico HTTP/1.1" 404 77
+2020-10-27 16:58:22,296 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\log.py[line:228] Not Found: /favicon.ico
+2020-10-27 16:58:22,297 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /favicon.ico HTTP/1.1" 404 77
+2020-10-27 16:58:35,693 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:203] C:\Users\cx2326\Desktop\NewPrinterBrain\printer_center\views.py changed, reloading.
+2020-10-27 16:58:39,069 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:578] Watching for file changes with StatReloader
+2020-10-27 17:03:12,734 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:578] Watching for file changes with StatReloader
+2020-10-27 17:03:20,568 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/test/ HTTP/1.1" 200 72
+2020-10-27 17:05:44,733 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/test/ HTTP/1.1" 200 72
+2020-10-27 17:05:44,946 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\log.py[line:228] Not Found: /favicon.ico
+2020-10-27 17:05:44,947 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /favicon.ico HTTP/1.1" 404 77
+2020-10-27 17:05:45,093 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\log.py[line:228] Not Found: /favicon.ico
+2020-10-27 17:05:45,093 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /favicon.ico HTTP/1.1" 404 77
+2020-10-27 17:07:34,390 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:578] Watching for file changes with StatReloader
+2020-10-27 17:07:38,678 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/test/ HTTP/1.1" 200 70
+2020-10-27 17:11:05,810 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/test HTTP/1.1" 301 0
+2020-10-27 17:11:05,901 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/test/ HTTP/1.1" 200 43
+2020-10-27 17:25:10,830 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/test/ HTTP/1.1" 200 72
+2020-10-27 17:25:11,938 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/test/ HTTP/1.1" 200 72
+2020-10-27 17:30:52,940 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:578] Watching for file changes with StatReloader
+2020-10-27 17:32:37,398 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/test/ HTTP/1.1" 200 42
+2020-10-27 17:32:37,634 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\log.py[line:228] Not Found: /favicon.ico
+2020-10-27 17:32:37,635 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /favicon.ico HTTP/1.1" 404 77
+2020-10-27 17:35:05,576 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\log.py[line:228] Not Found: /
+2020-10-27 17:35:08,650 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\log.py[line:228] Not Found: /
+2020-10-27 17:35:08,651 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET / HTTP/1.1" 404 77
+2020-10-27 17:35:09,322 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/test HTTP/1.1" 301 0
+2020-10-27 17:35:13,405 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/test/ HTTP/1.1" 200 43
+2020-10-27 17:35:36,582 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\log.py[line:228] Not Found: /
+2020-10-27 17:35:36,583 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET / HTTP/1.1" 404 77
+2020-10-27 17:38:50,764 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:578] Watching for file changes with StatReloader
+2020-10-27 17:40:22,179 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:578] Watching for file changes with StatReloader
+2020-10-27 17:41:25,020 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/test/ HTTP/1.1" 200 44
+2020-10-27 17:41:25,147 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\log.py[line:228] Not Found: /favicon.ico
+2020-10-27 17:41:25,148 WARNING  F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /favicon.ico HTTP/1.1" 404 77
+2020-10-27 17:42:15,729 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\core\servers\basehttp.py[line:154] "GET /cxsw/printer/ HTTP/1.1" 200 0
+2020-10-27 17:43:51,609 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:578] Watching for file changes with StatReloader
+2020-10-27 18:06:21,790 INFO     F:\zhanghu\venv_octoprint\django_octoprint\lib\site-packages\django\utils\autoreload.py[line:578] Watching for file changes with StatReloader
